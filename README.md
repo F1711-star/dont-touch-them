@@ -14,5 +14,5 @@ The game ends when Naruto gets hit.
 ```bash
 pip install pygame
 python main.py
-'''
+```
 Assets used for educational purposes only.
